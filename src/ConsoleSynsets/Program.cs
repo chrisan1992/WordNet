@@ -49,7 +49,7 @@ namespace ConsoleSynsets
 
                                     file.WriteLine(csv_line);
                                     //out of the foreach loop
-                                    break;
+                                    //break;
                                 }
                             }
 
